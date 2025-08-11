@@ -1,1 +1,6 @@
 this file is assigned for cradit tockens
+
+
+
+mainley tocken generation is done through 
+git packets in term with cisco packets
